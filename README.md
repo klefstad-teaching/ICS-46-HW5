@@ -26,8 +26,8 @@ following folder structure:
     └── <CLASSNAME>.h
 ```
 
-All submissions are done on [GradeScope](https://www.gradescope.com/).
+All submissions are done on [Gradescope](https://www.gradescope.com/).
 
-On GradeScope, go into your Account Settings, and link your GitHub account to GradeScope.
+On Gradescope, go into your Account Settings, and link your GitHub account to Gradescope.
 
-Then on the course GradeScope, go to the **Homework 5** assignment, press the Submit button, choose the GitHub option, and select your project and branch.
+Then on the course Gradescope, go to the **Homework 5** assignment, press the Submit button, choose the GitHub option, and select your project and branch.
